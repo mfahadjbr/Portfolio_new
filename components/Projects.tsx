@@ -8,6 +8,18 @@ import Image from 'next/image'
 
 const projects = [
   {
+    title: "Medical Rag Application",
+    description: "A fully functional Medical Rag platform. It is a platform that connects people with the best medical experts world wide.",
+    image: "/medical.png",
+    demo: "https://medical-rag-application-1.vercel.app/"
+  },
+  {
+    title: "Medical ChatBot Assistant",
+    description: "A fully functional Medical ChatBot Assistant platform. It is a platform that connects people with the best medical experts world wide.",
+    image: "/1.png",
+    demo: "https://mfahadjbr-medical-chatbot-assistant-main-plrqms.streamlit.app/"
+  },
+  {
     title: "Agentia world Website",
     description: "A fully functional Agentia world platform. It is a platform that connects people with the best travel agents world wide.",
     image: "/project1.png",
